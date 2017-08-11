@@ -1,3 +1,10 @@
 User: aleon, Phone: 000, Date: 
 User: trio, Phone: 10101, Date: 1414
 User: allias, Phone: 00010, Barber: Walter White, Date: 3343
+User: adas, Phone: 12121, Barber: Jessie Pinkman, Color:, Date: 1122
+User: sasa, Phone: 222333, Barber: Gus Fring, Color:, Date: 1355
+User: asas, Phone: 111, Barber: Walter White, Color:, Date: 111
+User: ada, Phone: 555, Barber: Gus Fring, Color: , Date: 222
+User: aaa, Phone: 353, Barber: Walter White, Color: #ff887c, Date: 554
+User: asd, Phone: 111, Barber: Walter White, Color: #fbd75b, Date: 444
+User: red, Phone: 232313, Barber: Jessie Pinkman, Color: #fbd75b, Date: 544
